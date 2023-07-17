@@ -11,7 +11,7 @@
                       <p class="mb-5">Autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla</p>
                     </div>
                     <div class="col-md-6 mb-5">
-                      <div class="card text-white"><img class="card-img" src="assets/img/gallery/short-terms.png" alt="..." />
+                      <div class="card text-white"><img class="card-img" src="../../assets/img/gallery/short-terms.png" alt="..." />
                         <div class="card-img-overlay d-flex flex-column justify-content-center px-5 px-md-3 px-lg-5 bg-dark-gradient">
                           <h6 class="text-success pt-2">NEW FARM TODAY</h6>
                           <hr class="text-white" style="height:0.12rem;width:2.813rem" />
@@ -23,7 +23,7 @@
                       </div>
                     </div>
                     <div class="col-md-6 mb-5">
-                      <div class="card text-white"><img class="card-img" src="assets/img/gallery/fully-funded.png" alt="..." />
+                      <div class="card text-white"><img class="card-img" src="../../assets/img/gallery/fully-funded.png" alt="..." />
                         <div class="card-img-overlay d-flex flex-column justify-content-center px-5 px-md-3 px-lg-5 bg-light-gradient">
                           <h6 class="text-success pt-2">FULLY FUNDED</h6>
                           <hr class="text-white" style="height:0.12rem;width:2.813rem" />

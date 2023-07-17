@@ -1,8 +1,8 @@
 <template>
         <section class="py-0" id="header">
-            <div class="bg-holder d-none d-md-block" style="background-image:url(../../assets/img/illustrations/hero-header.png);background-position:right top;background-size:contain;"></div>
+            <div class="bg-holder d-none d-md-block" id="heroDnonBD" style="background-position:right top;background-size:contain;"></div>
             <!--/.bg-holder-->
-            <div class="bg-holder d-md-none" style="background-image:url(../../assets/img/illustrations/hero-bg.png);background-position:right top;background-size:contain;"></div>
+            <div class="bg-holder d-md-none" id="heroDnonBD" style="background-position:right top;background-size:contain;"></div>
             <!--/.bg-holder-->
             <div class="container">
               <div class="row align-items-center min-vh-75 min-vh-lg-100">
@@ -21,4 +21,7 @@ export default {
 </script>
 <style scoped>
   @import '../../assets/css/theme.min.css';
+  #heroDnonBD{
+    background-image: url('../../assets/img/illustrations/hero-header.png');
+  }
 </style>

@@ -1,6 +1,6 @@
 <template>
     <section class="py-0">
-        <div class="bg-holder" style="background-image:url(assets/img/illustrations/how-it-works.png);background-position:center bottom;background-size:cover;"></div>
+        <div class="bg-holder" style="background-position:center bottom;background-size:cover;"></div>
         <!--/.bg-holder-->
         <div class="container-lg">
           <div class="row justify-content-center">
@@ -71,4 +71,7 @@ export default {
 </script>
 <style scoped>
   @import '../../assets/css/theme.min.css';
+  .bg-holder{
+    background-image: url('../../assets/img/illustrations/how-it-works.png');
+  }
 </style>

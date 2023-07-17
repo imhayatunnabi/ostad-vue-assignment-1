@@ -9,9 +9,8 @@
       <invest-component></invest-component>
       <work-component></work-component>
       <review-component></review-component>
-
       <future-component></future-component>
-        <FooterComponent></FooterComponent>
+      <FooterComponent></FooterComponent>
       
     </main><!-- ===============================================-->
     <!--    End of Main Content-->

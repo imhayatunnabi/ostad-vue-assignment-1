@@ -3,7 +3,7 @@
         <div class="container-lg">
           <div class="row flex-center">
             <div class="col-12 col-lg-10 col-xl-12">
-              <div class="bg-holder" style="background-image:url(assets/img/illustrations/testimonial-bg.png);background-position:top left;background-size:120px 83px;"></div>
+              <div class="bg-holder" style="background-image:url(../../assets/img/illustrations/testimonial-bg.png);background-position:top left;background-size:120px 83px;"></div>
               <!--/.bg-holder-->
               <h6 class="fs-3 fs-lg-4 fw-bold lh-sm">What investors like you <br />are saying about Zou</h6>
             </div>
@@ -14,7 +14,7 @@
                     <div class="col-md-4 mb-5 mb-md-0">
                       <div class="card h-100 shadow">
                         <div class="card-body my-3">
-                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="assets/img/gallery/user-1.png" width="50" alt="" />
+                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="../../assets/img/gallery/user-1.png" width="50" alt="" />
                             <div class="flex-1 align-items-center pt-2">
                               <h5 class="mb-0 fw-bold text-success">Fernando Soler</h5>
                               <p class="fw-normal text-black">Telecommunication Engineer</p>
@@ -27,7 +27,7 @@
                     <div class="col-md-4 mb-5 mb-md-0">
                       <div class="card h-100 shadow">
                         <div class="card-body my-3">
-                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="assets/img/gallery/user-2.png" width="50" alt="" />
+                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="../../assets/img/gallery/user-2.png" width="50" alt="" />
                             <div class="flex-1 align-items-center pt-2">
                               <h5 class="mb-0 fw-bold text-success">Ilone Pickford</h5>
                               <p class="fw-normal text-black">Head of Agrogofund </p>
@@ -40,7 +40,7 @@
                     <div class="col-md-4 mb-5 mb-md-0">
                       <div class="card h-100 shadow">
                         <div class="card-body my-3">
-                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="assets/img/gallery/user-3.png" width="50" alt="" />
+                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="../../assets/img/gallery/user-3.png" width="50" alt="" />
                             <div class="flex-1 align-items-center pt-2">
                               <h5 class="mb-0 fw-bold text-success">Ed O’Brien</h5>
                               <p class="fw-normal text-black">Herbalist</p>
@@ -57,7 +57,7 @@
                     <div class="col-md-4 mb-5 mb-md-0">
                       <div class="card h-100 shadow">
                         <div class="card-body my-3">
-                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="assets/img/gallery/user-1.png" width="50" alt="" />
+                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="../../assets/img/gallery/user-1.png" width="50" alt="" />
                             <div class="flex-1 align-items-center pt-2">
                               <h5 class="mb-0 fw-bold text-success">Fernando Soler</h5>
                               <p class="fw-normal text-black">Telecommunication Engineer</p>
@@ -70,7 +70,7 @@
                     <div class="col-md-4 mb-5 mb-md-0">
                       <div class="card h-100 shadow">
                         <div class="card-body my-3">
-                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="assets/img/gallery/user-2.png" width="50" alt="" />
+                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="../../assets/img/gallery/user-2.png" width="50" alt="" />
                             <div class="flex-1 align-items-center pt-2">
                               <h5 class="mb-0 fw-bold text-success">Ilone Pickford</h5>
                               <p class="fw-normal text-black">Head of Agrogofund Groups </p>
@@ -83,7 +83,7 @@
                     <div class="col-md-4 mb-5 mb-md-0">
                       <div class="card h-100 shadow">
                         <div class="card-body my-3">
-                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="assets/img/gallery/user-3.png" width="50" alt="" />
+                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="../../assets/img/gallery/user-3.png" width="50" alt="" />
                             <div class="flex-1 align-items-center pt-2">
                               <h5 class="mb-0 fw-bold text-success">Ed O’Brien</h5>
                               <p class="fw-normal text-black">Herbalist</p>
@@ -100,7 +100,7 @@
                     <div class="col-md-4 mb-5 mb-md-0">
                       <div class="card h-100 shadow">
                         <div class="card-body my-3">
-                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="assets/img/gallery/user-1.png" width="50" alt="" />
+                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="../../assets/img/gallery/user-1.png" width="50" alt="" />
                             <div class="flex-1 align-items-center pt-2">
                               <h5 class="mb-0 fw-bold text-success">Fernando Soler</h5>
                               <p class="fw-normal text-black">Telecommunication Engineer</p>
@@ -113,7 +113,7 @@
                     <div class="col-md-4 mb-5 mb-md-0">
                       <div class="card h-100 shadow">
                         <div class="card-body my-3">
-                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="assets/img/gallery/user-2.png" width="50" alt="" />
+                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="../../assets/img/gallery/user-2.png" width="50" alt="" />
                             <div class="flex-1 align-items-center pt-2">
                               <h5 class="mb-0 fw-bold text-success">Ilone Pickford</h5>
                               <p class="fw-normal text-black">Head of Agrogofund Groups </p>
@@ -126,7 +126,7 @@
                     <div class="col-md-4 mb-5 mb-md-0">
                       <div class="card h-100 shadow">
                         <div class="card-body my-3">
-                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="assets/img/gallery/user-3.png" width="50" alt="" />
+                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="../../assets/img/gallery/user-3.png" width="50" alt="" />
                             <div class="flex-1 align-items-center pt-2">
                               <h5 class="mb-0 fw-bold text-success">Ed O’Brien</h5>
                               <p class="fw-normal text-black">Herbalist</p>
@@ -154,4 +154,7 @@ export default {
 </script>
 <style scoped>
   @import '../../assets/css/theme.min.css';
+  .bg-holder{
+    background-image: url('../../assets/img/illustrations/testimonial-bg.png');
+  }
 </style>
