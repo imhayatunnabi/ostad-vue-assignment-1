@@ -19,6 +19,6 @@ export default {
     name: 'NavbarComponent'
 }
 </script>
-<style lang="">
-    
+<style scoped>
+  @import '../../assets/css/theme.min.css';
 </style>

@@ -49,5 +49,6 @@ export default {
     name: 'FooterComponent'
 }
 </script>
-<style>
+<style scoped>
+  @import '../../assets/css/theme.min.css';
 </style>

@@ -50,9 +50,9 @@
 </template>
 <script>
 export default {
-    name: 'OpportunityComponent'
+    name: 'OpportunityComponent',
 }
 </script>
-<style lang="">
-    
+<style scoped>
+  @import '../../assets/css/theme.min.css';
 </style>

@@ -21,6 +21,6 @@ export default {
     name: 'FutureComponent'
 }
 </script>
-<style lang="">
-    
+<style scoped>
+  @import '../../assets/css/theme.min.css';
 </style>
